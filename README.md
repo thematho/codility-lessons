@@ -18,3 +18,6 @@ https://app.codility.com/demo/results/trainingACD7NP-Z9B/?showingAll=1
 
 4. MissingInteger
 https://app.codility.com/demo/results/trainingP9E55M-S5X/?showingAll=1
+
+# Lesson 5: Prefix Sum
+https://app.codility.com/demo/results/trainingTPPCG6-FKS/?showingAll=1
