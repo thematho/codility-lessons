@@ -28,3 +28,6 @@ https://app.codility.com/demo/results/trainingR7C9ZC-8A6/?showingAll=1
 
 3. GenomicRangeQuery
 https://app.codility.com/demo/results/trainingNTWDZC-92T/?showingAll=1
+
+4.MinAvgTwoSlice
+https://app.codility.com/demo/results/trainingKAFCR2-3F8/?showingAll=1
