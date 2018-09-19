@@ -1,4 +1,4 @@
-
+Solutions to Codility Lessons exercises [https://app.codility.com/programmers/lessons/](https://app.codility.com/programmers/lessons/)
 
 # Lesson 3: Time Complexity
 
@@ -35,4 +35,10 @@ https://app.codility.com/demo/results/trainingHP6GK4-R8V/?showingAll=1
 # Lesson 6: Sort
   1. Distinct (100%)
   https://app.codility.com/demo/results/trainingRYRNY7-MDM/?showingAll=1
+
+  2. MaxProductOfThree
+  https://app.codility.com/demo/results/trainingWXAWMU-NQP/?showingAll=1
+
+  3. Triangle
+
   
